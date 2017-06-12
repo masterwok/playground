@@ -78,7 +78,6 @@ var Demo = (function () {
     }
     return Demo;
 }());
-new Demo();
 
 
 /***/ })
